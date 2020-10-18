@@ -1,0 +1,3 @@
+[submodule "CommunicationMod"]
+	path = CommunicationMod
+	url = https://github.com/ForgottenArbiter/CommunicationMod
